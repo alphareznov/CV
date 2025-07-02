@@ -111,7 +111,7 @@ $ cat Contact.cfg
 email=annaitanaphon@gmail.com
 github=github.com/Bara-me
 instagram=@_annaihilation
-gpg=A1N2-4A1B-1337-DEAD-BEEF
+
 
 
 
